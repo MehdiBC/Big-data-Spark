@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spark_batch/spark_batch.iml" filepath="$PROJECT_DIR$/spark_batch/spark_batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark_streaming/spark_streaming.iml" filepath="$PROJECT_DIR$/spark_streaming/spark_streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark_word_count.iml" filepath="$PROJECT_DIR$/spark_word_count.iml" />
+    </modules>
+  </component>
+</project>
